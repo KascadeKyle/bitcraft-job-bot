@@ -1,5 +1,16 @@
-# Bitcraft Job Bot – Setup Guide (Beginner Friendly)
+# Bitcraft Job Bot
 
+![Screenshot](https://i.gyazo.com/39f715b2405fee059c68243dc340cc90.png)
+
+- Subscribe to a claim to see all public crafts
+- Filter by item, skill, craft size, etc
+- Progress bars update automatically 
+- Differentiate between crafts from claim members and guests
+- Messages the channel when a new craft is added
+- Cleans up after itself
+- No database required, subscriptions are persisted in a json file
+
+#  Setup Guide (Beginner Friendly)
 ## Step 1 – Install Node.js
 
 If you don't already have Node.js:
